@@ -220,7 +220,7 @@
 
 ---
 ![web2](https://i.imgur.com/Fm78Wgt.png)
-> 設置 ip位址 及 路由器，之後右下`進階`
+> 設置 ip 位址 及 路由器，之後右下`進階`
 
 ---
 ![dns](https://i.imgur.com/TwiNEVD.png)
@@ -344,7 +344,7 @@
 
 ![ssh1](https://i.imgur.com/fsZtPfH.png)
 
-> ssh-copy-id hostname@ip
+> ssh-copy-id username@ip
 
 ---
 
@@ -352,7 +352,7 @@
 
 ![ssh2](https://i.imgur.com/TeXeNfO.png)
 
-> ssh user@ip
+> ssh username@ip
 
 
 
