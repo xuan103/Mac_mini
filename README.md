@@ -150,7 +150,7 @@
 
 ![install-id](https://i.imgur.com/zDtZEwL.jpg)
 
-> 不要登入
+> 不要登入 (稍後登入) 
 
 ---
 
