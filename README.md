@@ -68,7 +68,8 @@
 
 - 選單
 
-![](https://i.imgur.com/peXxF3c.jpg)
+![del1](https://i.imgur.com/peXxF3c.jpg)
+
 
  > 選擇 磁碟工具程式
 
@@ -76,7 +77,7 @@
 
 - 清除磁碟機1（硬碟
 
-![](https://i.imgur.com/gKiQQrZ.jpg)
+![del2](https://i.imgur.com/gKiQQrZ.jpg)
 
  > 左欄位 選擇要清除硬碟
 
@@ -84,7 +85,7 @@
 
 - 清除磁碟機2（硬碟
 
-![](https://i.imgur.com/k2HGRa6.jpg)
+![del3](https://i.imgur.com/k2HGRa6.jpg)
 
 > 右邊 點擊清除
 
@@ -92,7 +93,7 @@
 
 - 確認清除
 
-![](https://i.imgur.com/lMT9bw4.jpg)
+![del4](https://i.imgur.com/lMT9bw4.jpg)
 
 > 清除
 
@@ -100,7 +101,7 @@
 
 - 選單
 
-![](https://i.imgur.com/oxlYLlk.jpg)
+![del5](https://i.imgur.com/oxlYLlk.jpg)
 
 > 重新安裝 OS X 
 
@@ -108,7 +109,7 @@
 
 - 確認安裝
 
-![](https://i.imgur.com/DhPxOFa.jpg)
+![del6](https://i.imgur.com/DhPxOFa.jpg)
 
 > 繼續
 
@@ -129,6 +130,20 @@
 >  台灣
 
 ---
+
+![](https://i.imgur.com/XtXWBmR.jpg)
+![](https://i.imgur.com/CHSiaBW.jpg)
+![](https://i.imgur.com/FUdt5EP.jpg)
+![](https://i.imgur.com/5IcBLQ0.jpg)
+![](https://i.imgur.com/PPCVl9n.jpg)
+![](https://i.imgur.com/k8iIQDT.jpg)
+![](https://i.imgur.com/JSs595n.jpg)
+![](https://i.imgur.com/nDNxE99.jpg)
+![](https://i.imgur.com/4nN6QCa.jpg)
+![](https://i.imgur.com/5eg9FUn.jpg)
+
+
+
 
 - 選擇鍵盤規格
 
@@ -231,6 +246,19 @@
 > 以上參考
 
 ---
+#### 打開終端機
+
+- 步驟： `Launchpad` (桌面最下層像火箭的) > `其他` (資料夾) > `終端機` (第二排倒數第二個)
+
+![](https://i.imgur.com/z53QmJN.png)
+
+![](https://i.imgur.com/Mc2PRf4.png)
+
+![](https://i.imgur.com/nKgKqL5.png)
+
+
+---
+
 #### 設置 hostname（主機名稱）
 
 ![host](https://i.imgur.com/N6SlLM4.png)
@@ -319,7 +347,7 @@
 
 ![dockera1](https://i.imgur.com/mRjaQdE.png)
 
->  更改 Memory（記憶體）大小
+> 更改 Memory（記憶體）大小
 
 
 ---
@@ -330,7 +358,25 @@
 > 同意並且重開
 
 ---
+#### 設置遠端共享
 
+![usershare](https://i.imgur.com/lon60iY.png)
+
+> 選擇 `共享` （第三排最右邊）
+
+![usershare1](https://i.imgur.com/ZNTJqik.png)
+
+ > 右邊 `遠端登入` 打勾，左邊 `＋` 添加使用著
+
+![usershare2](https://i.imgur.com/KLGYXqy.png)
+
+> 選擇要共享的使用著，並`選取`
+
+![usershare3](https://i.imgur.com/1gvM73x.png)
+
+> 完成後右上 `x` 關閉頁面
+
+---
 #### 產生遠端金鑰（SSH)
 
 ![ssh](https://i.imgur.com/Cp3bWZ6.png)
