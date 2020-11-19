@@ -91,6 +91,14 @@
 
 ---
 
+- 清除磁碟機（硬碟(不同版本畫面不同）
+
+![](https://i.imgur.com/FUdt5EP.jpg)
+
+> 上方 `清除` 名稱依個人更改（此範例不更改名稱）> 確認 `清除`
+
+
+---
 - 確認清除
 
 ![del4](https://i.imgur.com/lMT9bw4.jpg)
@@ -123,6 +131,14 @@
  
 ### 圖解：
 
+- 開始基本設定
+
+![](https://i.imgur.com/CHSiaBW.jpg)
+
+- 繼續
+
+---
+
 - 選擇地理位址（地區）
 
 ![install-where](https://i.imgur.com/2KUI4Yv.jpg)
@@ -130,20 +146,6 @@
 >  台灣
 
 ---
-
-![](https://i.imgur.com/XtXWBmR.jpg)
-![](https://i.imgur.com/CHSiaBW.jpg)
-![](https://i.imgur.com/FUdt5EP.jpg)
-![](https://i.imgur.com/5IcBLQ0.jpg)
-![](https://i.imgur.com/PPCVl9n.jpg)
-![](https://i.imgur.com/k8iIQDT.jpg)
-![](https://i.imgur.com/JSs595n.jpg)
-![](https://i.imgur.com/nDNxE99.jpg)
-![](https://i.imgur.com/4nN6QCa.jpg)
-![](https://i.imgur.com/5eg9FUn.jpg)
-
-
-
 
 - 選擇鍵盤規格
 
@@ -190,7 +192,6 @@
 ![selet](https://i.imgur.com/Vy0YZru.jpg)
 
 > 同意
-
 
 ---
 
